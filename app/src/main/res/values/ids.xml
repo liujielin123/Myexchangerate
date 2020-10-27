@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_setting" type="id">setting</item>
+    <item name="fragment_func" type="id">function</item>
+    <item name="fragment_main" type="id">main</item>
+</resources>
